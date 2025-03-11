@@ -1,0 +1,17 @@
+/Users/marco/Desktop/csharp/Testes/bin/Debug/net8.0/Testes
+/Users/marco/Desktop/csharp/Testes/bin/Debug/net8.0/Testes.deps.json
+/Users/marco/Desktop/csharp/Testes/bin/Debug/net8.0/Testes.runtimeconfig.json
+/Users/marco/Desktop/csharp/Testes/bin/Debug/net8.0/Testes.dll
+/Users/marco/Desktop/csharp/Testes/bin/Debug/net8.0/Testes.pdb
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.AssemblyInfoInputs.cache
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.AssemblyInfo.cs
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.csproj.CoreCompileInputs.cache
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.dll
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/refint/Testes.dll
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.pdb
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.genruntimeconfig.cache
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/ref/Testes.dll
+/Users/marco/Desktop/csharp/Testes/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.csproj.AssemblyReference.cache
+/Users/marco/Desktop/csharp/Testes/obj/Debug/net8.0/Testes.csproj.Up2Date
